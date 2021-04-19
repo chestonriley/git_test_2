@@ -1,0 +1,1 @@
+This is new text added to the text2 file
